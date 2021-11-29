@@ -1,0 +1,9 @@
+.h-button-primary {
+  color: #fff;
+  background: #3b86e0;
+  border-color: #3b86e0;
+  &.is-outline {
+    color: #3b86e0;
+    background: transparent;
+  }
+}
